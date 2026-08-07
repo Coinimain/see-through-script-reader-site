@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coinimain.github.io/see-through-script-reader-site/sitemap.xml

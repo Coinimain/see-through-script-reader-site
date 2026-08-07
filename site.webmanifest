@@ -1,0 +1,10 @@
+{
+  "name": "See Through Script Reader",
+  "short_name": "Script Reader",
+  "description": "Official website for the See Through Script Reader Android app.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": []
+}
