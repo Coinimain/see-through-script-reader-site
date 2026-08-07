@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="1" stop-color="#0e1c2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#388BFD"/>
+      <stop offset="1" stop-color="#42D293"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="85" r="250" fill="#388BFD" opacity=".09"/>
+  <circle cx="160" cy="600" r="300" fill="#42D293" opacity=".08"/>
+  <g transform="translate(94 142) scale(2.35)">
+    <rect width="108" height="108" rx="28" fill="#070b14" stroke="#26344a"/>
+    <path fill="#388BFD" d="M28 35Q54 20 80 35Q54 50 28 35Z"/>
+    <path fill="#42D293" d="M23 53Q54 34 85 53Q54 71 23 53Z"/>
+    <path fill="#F7FAFF" d="M31 71Q54 60 77 71Q54 84 31 71Z"/>
+  </g>
+  <text x="390" y="235" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#F7FAFF">See Through</text>
+  <text x="390" y="310" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#F7FAFF">Script Reader</text>
+  <rect x="390" y="347" width="260" height="8" rx="4" fill="url(#accent)"/>
+  <text x="390" y="420" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#AAB7CB">A floating teleprompter that stays out of your way.</text>
+  <text x="390" y="470" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#7F8DA4">Android · Local-first · Built for serious creators</text>
+</svg>
